@@ -3,18 +3,17 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact the Herman Lab
 
-James Fraser, Ph.D.
-Associate Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Mark A. Herman, M.D.
+Associate Professor of Medicine
+Division of Endocrinology, Metabolism, and Nutrition
+Duke Molecular Physiology Institute
+Duke University Medical Center
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
+email: mark.herman (#!) duke.edu
 
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+Duke Molecular Physiology Institute
+Carmichael Building
+300 North Duke Street
+Durham, NC 27701
