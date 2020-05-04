@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# HermanLab.github.io
 ====================
 
 Technologies this website uses:  
