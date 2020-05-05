@@ -4,7 +4,7 @@ layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Herman Lab
 
 
 <div class="row">
@@ -18,7 +18,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>James Fraser</h4>
+  <h4>Mark Herman</h4>
   Associate Professor of Medicine  <br>
   Division of Endocrinology, Metabolism, and Nutrition  <br>
   Duke Molecular Physiology Institute  <br>

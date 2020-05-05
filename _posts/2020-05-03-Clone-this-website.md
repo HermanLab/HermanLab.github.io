@@ -4,6 +4,8 @@ author: Ben Barad and James Fraser
 layout: post
 group: news
 ---
+Note the Herman Lab website was cloned using the following directions.
+
 If you are starting a new lab or want an easy (democratized) way to run your lab website - please: Clone this website!
 
 The Fraser lab website was built by [Ben Barad](https://benjaminbarad.com) 6 years ago using [Github Pages](https://pages.github.com/). Since then, it has been improved upon by many members of the lab, and has been updated over 1000 times by James.

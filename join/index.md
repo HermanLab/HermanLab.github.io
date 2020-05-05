@@ -1,12 +1,12 @@
 ---
-title: Join the Fraser Lab
+title: Join the Herman Lab
 layout: default
 group: join
 ---
 
 # Graduate Students
 
-in contruction
+under construction
 
 ### The Herman Lab participates in the following Duke graduate program:
   * **[Pharmacology and Cancer Biology](https://pharmacology.duke.edu/)**: The Department of Pharmacology and Cancer Biology was created to foster collaborative interactions between scientists with different, though complementary, research interests and expertise.

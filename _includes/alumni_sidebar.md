@@ -1,5 +1,5 @@
 
-### Fraser Lab Alumni
+### Herman Lab Alumni
 
 
 {% for alum in site.data.alumni %}
@@ -11,7 +11,7 @@ Subsequent Position: {{alum.current}} </p>
 </div> {% endfor %}
 
 <br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
+## High School Interns
 
 
 {% for sep in site.data.sep %}
@@ -26,7 +26,7 @@ Subsequent Position: {{sep.current}}<br>
 </div> {% endfor %}
 
 <br>
-## Fraser Lab Visitors
+## Herman Lab Visitors
 
 
 {% for visitor in site.data.visitors %}
