@@ -1,4 +1,9 @@
- - name: testing person 2
+- name: testing person 2
   position: Visiting person
   startdate: May 2020
   current: University of Somewhere
+
+- name: test person 3
+  position: Visitng person
+  startdate: June 2020
+  current: Somewhere College
