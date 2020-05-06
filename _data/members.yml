@@ -1,4 +1,4 @@
-- name: Mark Herman
+- name: Mark A. Herman
   image: /static/img/members/markherman.jpg
   altimage: /static/img/members/markherman.jpg
   pronouns: he/him/his
@@ -7,8 +7,60 @@
   scholar: hY824IEAAAAJ&hl
   twitter: MarkHermanMD
   orcid: 0000-0001-6979-103X
-  github: none
   description: "Mark's biography - under construction"
+
+- name: Inna Astapova
+  image: /static/img/members/innaastapova.jpg
+  altimage: /static/img/members/innaastapova.jpg
+  pronouns: she/her/hers
+  position: Research Assistant Professor
+  email: inna.astapova (at) duke.ed
+  description: "Inna's biography - under construction"
+
+- name: Stacey Johnson
+  pronouns: she/her/hers
+  position: Pediatric Endocrinology Fellow
+  email: stacey.johnson (at) duke.ed
+  description: "Stacey's biography - under construction"
+
+
+- name: Ashot Sargsyan
+  image: /static/img/members/ashotsargsyan.jpg
+  altimage: /static/img/members/ashotsargsyan.jpg
+  pronouns: he/him/his
+  position: Postdoctoral Fellow
+  email: ashot.sargsyan (at) duke.ed
+  scholar: oFCxhW4AAAAJ&hl
+  orcid: 0000-0003-1662-7548
+  description: "Ashot's biography - under construction"
+
+- name: Sarah Hannou
+  image: /static/img/members/sarahhannou.jpg
+  altimage: /static/img/members/sarahhannou.jpg
+  pronouns: she/her/hers
+  position: Postdoctoral Fellow
+  email: sarah.hannou (at) duke.ed
+  orcid: 0000-0003-4780-5773
+  description: "Sarah's biography - under construction"
+
+- name: Wenxin Tong
+  image: /static/img/members/wenxintong.jpg
+  altimage: /static/img/members/wenxintong.jpg
+  pronouns: she/her/hers
+  position: Graduate Student
+  email: wenxin.tong (at) duke.ed
+  scholar: dRDpsPkAAAAJ
+  description: "Wenxin's biography - under construction"
+
+- name: Ruby Monn
+  image: /static/img/members/rubymonn.jpg
+  altimage: /static/img/members/rubymonn.jpg
+  pronouns: she/her/hers
+  position: Research Technician
+  email: ruby.monn (at) duke.ed
+  description: "Ruby's biography - under construction"
+
+
 
 #- name: Justin Biel
 #  image: /static/img/members/Biel.jpg
