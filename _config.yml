@@ -1,7 +1,7 @@
 name: "Herman Lab"
 description: "This is the official web page for the Mark A. Herman Lab at Duke University."
 
-url: "http://markhermanlab.org/"
+url: "http://markhermanlab.org"
 
 paginate: 5
 plugins: [jekyll-paginate]
