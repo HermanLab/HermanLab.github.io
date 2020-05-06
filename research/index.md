@@ -5,7 +5,7 @@ group: research
 ---
 
 
-<img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Herman Lab">
+#<img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Herman Lab">
 
 # The Herman laboratory uses a systems biology approach to understand molecular mechanisms underlying the metabolic syndrome - a constellation of pathologies including obesity; insulin resistance; impaired glucose metabolism; non-alcoholic fatty liver disease; and dyslipidemia, which predispose to the development of diabetes and cardiovascular disease.
 
